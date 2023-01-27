@@ -6,14 +6,14 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya101294&label=Profile%20views&color=0e75b6&style=flat" alt="Surya" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya101294&label=Profile%20views&color=0e75b6&style=flat" alt="Surya" /> </p> -->
 
    <p align="center" color:"red">
      <a href="https://github.com/surya101294/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Surya Prakash 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -29,10 +29,10 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 
 - 📫 How to reach me **surya101294@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/surya-prakash-pokhriyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-prakash-pokhriyal" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
@@ -58,8 +58,11 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 
 </div> -->
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya101294&show_icons=true&locale=en&layout=compact" alt="surya101294" /></p> -->
-## 📊 My Github Stats
+<h2> 📊 My Github Stats : </h2>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya101294&show_icons=true&locale=en&layout=compact" alt="surya101294" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya101294&" alt="surya101294" /></p>
 
  <h2 align="left">⚡Activity Graph:</h2>
