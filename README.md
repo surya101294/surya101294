@@ -1,10 +1,10 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="https://surya101294.github.io/"> Surya Prakash Pokhriyal 💻</a>!
 </h2>
-
+<h4>
 Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learnt. Working with MERN stack and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
-
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+</h4>
+<img align="center" alt="Coding" width="100%" height="360px" style="text-align:center" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya101294&label=Profile%20views&color=0e75b6&style=flat" alt="Surya" /> </p> -->
 
@@ -19,13 +19,17 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya101294&label=Profile%20views&color=0e75b6&style=flat" alt="surya101294" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya101294&label=Profile%20views&color=0e75b6&style=flat" alt="surya101294" width="20%"/> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on **Building myself**
 
-- 💬 Ask me about **JavaScript, React**
+- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 👯 I’m looking to collaborate on **MERN, Front-End, Back-End Projects**
+
+- 💬 Ask me about **JavaScript, React, Node, Express, Mongoose**
 
 - 📫 How to reach me **surya101294@gmail.com**
 
@@ -36,6 +40,13 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
+
+<br>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<!--  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/surya101294/)  -->
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-pokhriyal/)
+ [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PokhriyalSurya) --> -->
 
 <h2>🥇 Skills:  </h2>  
 <p >
@@ -69,6 +80,7 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
   <a><img alt="surya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=surya101294&theme=react-dark&hide_border=true" /></a>
 
 <br> 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/surya101294/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-prakash-pokhriyal/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PokhriyalSurya) --> -->
+ -->
