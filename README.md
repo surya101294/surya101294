@@ -77,7 +77,7 @@ Hello stranger! my name is Surya Prakash Pokhriyal and I am a Full Stack Develop
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya101294&" alt="surya101294" /></p>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="surya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=surya101294&theme=react-dark&hide_border=true" /></a>
+<!--   <a><img alt="surya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=surya101294&theme=react-dark&hide_border=true" /></a> -->
 
 <br> 
 <!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
